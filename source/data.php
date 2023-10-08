@@ -1,0 +1,86 @@
+<?php
+
+$library = 
+    [
+        [
+            'id'        => 1,
+            'artiest'   => 'bBankzitters',
+            'titel'     => 'is Dat Nou Echt?',
+            'image'     => 'img/bankzitters.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 2,
+            'artiest'   => 'Post Malone',
+            'titel'     => 'Sunflower',
+            'image'     => 'img/postmelone.webp',
+            'genre'     => 'rap',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 3,
+            'artiest'   => 'Post Malone',
+            'titel'     => 'Goodbyes',
+            'image'     => 'img/postmelone.webp',
+            'genre'     => 'rap',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 4,
+            'artiest'   => 'bankzitters',
+            'titel'     => 'Offline Beschikbaar',
+            'image'     => 'img/bankzitters.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 5,
+            'artiest'   => 'post malone',
+            'titel'     => 'Circles',
+            'image'     => 'img/postmelone.webp',
+            'genre'     => 'rap',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 6,
+            'artiest'   => 'bankzitters',
+            'titel'     => 'Stapelgek',
+            'image'     => 'img/bankzitters.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 7,
+            'artiest'   => 'The Weekend',
+            'titel'     => 'Die For You',
+            'image'     => 'img/the_weekend.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 8,
+            'artiest'   => 'The Weekend',
+            'titel'     => 'Star Boy',
+            'image'     => 'img/the_weekend.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 9,
+            'artiest'   => 'The Weekend',
+            'titel'     => 'Blinding Lights',
+            'image'     => 'img/the_weekend.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+        [
+            'id'        => 10,
+            'artiest'   => 'bankzitters',
+            'titel'     => 'Je Blik Richting Mij',
+            'image'     => 'img/bankzitters.webp',
+            'genre'     => 'pop',
+            'desk'      => '',
+        ],
+    ]
+?>
